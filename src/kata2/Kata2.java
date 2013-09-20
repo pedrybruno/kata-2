@@ -13,5 +13,5 @@ public class Kata2 {
         Student student = new Student ("Bruno",new Date(89,11,5));
         System.out.println(student.getAge());
     }
-
+    
 }
